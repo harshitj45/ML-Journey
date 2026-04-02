@@ -1,31 +1,44 @@
-# Student Grade Management System
-## Week 1 Mini Project | 
+# 🤖 ML Journey — Harshit
 
-### Topics Used
-- Variables & Data Types
-- Strings & f-strings
-- Lists & Tuples
-- Dictionaries & Sets
-- Comprehensions
-- Loops (for, while, break, continue)
-- Functions (preview)
+> BTech CSE 3rd Year | Target: Junior ML Engineer
+> Daily: 2 hrs/day | Deadline: Jan-Mar 2027
 
-### Features
-- View all students summary
-- Individual report cards
-- Class rankings with medals
-- Class statistics + grade distribution
-- Subject-wise analysis
-- Topper finder
+---
 
-### How to Run
-python Project Student Grade Management System.py
+## 🎯 Goal
+Fresh start → Junior ML Engineer
+at a Product Startup by Jan-Mar 2027.
+Route: 100% Off-campus
 
-### Sample Output
-Rank 1: Sneha  — 96.0 — A+
-Rank 2: Priya  — 92.4 — A+
-Rank 3: Harshit — 82.0 — A
+---
 
-### Author
-Harshit | BTech CSE | ML Journey 
-```
+## 📊 Progress
+
+| Week | Topic | Status | Programs |
+|------|-------|--------|----------|
+| Week 1 | Python Basics | ✅ Complete | 18 programs |
+| Week 2 | OOP + Functions | 🔄 In Progress | - |
+| Week 3 | NumPy | ⏳ Upcoming | - |
+| Week 4 | Pandas | ⏳ Upcoming | - |
+| Week 5 | Visualization+EDA | ⏳ Upcoming | - |
+| Week 6-7 | Core ML | ⏳ Upcoming | - |
+
+---
+
+## 🗂 Projects Built
+
+### 1. Student Grade Management System
+- **Topics:** Loops, Dicts, Comprehensions, Functions
+- **Description:** Menu-driven CLI app for
+  student grade tracking and analysis
+- [View Project](projects/student-grade-system/)
+
+---
+
+## 🛠 Tech Stack (Building up)
+`Python` `NumPy` `Pandas` `Matplotlib`
+`Scikit-learn` `XGBoost` `FastAPI`
+
+---
+
+
