@@ -1,0 +1,3 @@
+Harshit,85,CSE
+Priya,92,ECE
+Rahul,67,CSE
